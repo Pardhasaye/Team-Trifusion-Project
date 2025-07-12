@@ -9,10 +9,11 @@ An AI-powered educational assistant to record, transcribe, summarize, answer que
 
 | Role         | Name                | Email                        | Contributions                                      |
 |--------------|---------------------|------------------------------|----------------------------------------------------|
-| Team Leader  | A. Pardha Saye      | [Email Redacted]             | App flow, audio logic, integration & testing       |
-| Team Member  | G. Siva Manikanta   | [Email Redacted]             | Whisper + OpenVINO setup, transcription logic      |
-| Team Member  | N. Sai Siddharadha  | [Email Redacted]             | Gemini integration, Q&A and quiz logic             |
-| Mentor       | *TBD*               |                              |                                                    |
+| Team Leader  | A. Pardha Saye      | panapart@gitam.in            | App flow, audio logic, integration & testing       |
+|              |                     |                              | and q and a gen openvino conversion                |
+| Team Member  | G. Siva Manikanta   | sgudla2@gitam.in             | recording and transcription logic                  |
+| Team Member  | N. Sai Siddharadha  | snarayan5@gitam.in           | Gemini integration, Q&A and quiz logic and ui      |
+
 
 ---
 
@@ -60,35 +61,35 @@ streamlit run app.py
 
 | Tab                | What It Does                                                     |
 |--------------------|------------------------------------------------------------------|
-| 🎙 Record & Transcribe | Records via mic or uploads `.wav`, transcribes using Whisper      |
-| 📝 Summarize        | Summarizes transcript using BART                                 |
-| ❓ Question Answering | Lets you ask anything about the transcript (Gemini-powered)     |
-| 🧪 Quiz Generator   | Generates MCQs with correct answers                              |
+| 🎙 Record & Transcribe | Records via mic or uploads `.wav`, transcribes using Whisper |
+| 📝 Summarize        | Summarizes transcript using BART                               |
+| ❓ Question Answering | Lets you ask anything about the transcript (Gemini-powered)  |
+| 🧪 Quiz Generator   | Generates MCQs with correct answers                            |
 
 ---
 
 ## 📸 Screenshots
 
 ### 🔴 Recording Interface
-![Recording](./recordings/Screenshot%202025-07-12%20230840.png)
+![Recording]([./recordings/Screenshot%202025-07-12%20230840.png](https://drive.google.com/file/d/1I5fiVicbkXiG91xyLgcHZjjFd-v2aAOS/view?usp=sharing))
 
 ### 📄 Transcription Output
-![Transcript](./recordings/Screenshot%202025-07-12%20230857.png)
+![Transcript]([./recordings/Screenshot%202025-07-12%20230857.png](https://drive.google.com/file/d/1WtozyXnY3fPJ4Z_rzCzjSqm2dbSUWGJI/view?usp=sharing))
 
 ### 💡 Q&A Tab
-![Q&A](./recordings/Screenshot%202025-07-12%20230912.png)
+![Q&A]([./recordings/Screenshot%202025-07-12%20230912.png](https://drive.google.com/file/d/1o3AdoHQLG71tBjVxpSSL1_nANSbUrk_v/view?usp=sharing))
 
 ### 🧠 Quiz Results
-![Quiz](./recordings/Screenshot%202025-07-12%20230940.png)
+![Quiz]([./recordings/Screenshot%202025-07-12%20230940.png](https://drive.google.com/file/d/1hCzsaXQv7LndmExXvcfxVUKMyckARlsD/view?usp=sharing))
 
 ### 📝 Summary
-![Summary](./recordings/Screenshot%202025-07-12%20231001.png)
+![Summary]([./recordings/Screenshot%202025-07-12%20231001.png](https://drive.google.com/file/d/11I2pB8g7NcqhapId-gPgJuUGkSZ6QKmB/view?usp=sharing))
 
 ---
 
 ## 🎥 Demo Video
 
-📽️ [Click to Watch Demo](https://your-link-here.com)
+📽️ [Click to Watch Demo]([https://your-link-here.com](https://drive.google.com/file/d/1c84dbWXYKZqSEqa6jJpSZ7481ElS2cNQ/view?usp=sharing))
 
 ```html
 <iframe width="560" height="315" src="https://your-embed-link.com" frameborder="0" allowfullscreen></iframe>
@@ -131,8 +132,8 @@ google-generativeai
 
 ## 🛠 Future Work
 
-- Speaker diarization for multi-speaker transcripts
-- Real-time waveform visualization
+-Better optimization for models
+- Add user profiles
 - Export full lecture packs (Transcript + Summary + Quiz)
 - Upload support for `.mp3` and `.m4a`
 
