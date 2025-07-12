@@ -71,29 +71,27 @@ streamlit run app.py
 ## 📸 Screenshots
 
 ### 🔴 Recording Interface
-![Recording]([./recordings/Screenshot%202025-07-12%20230840.png](https://drive.google.com/file/d/1I5fiVicbkXiG91xyLgcHZjjFd-v2aAOS/view?usp=sharing))
+![Recording]([https://drive.google.com/file/d/1I5fiVicbkXiG91xyLgcHZjjFd-v2aAOS/view?usp=sharing])
 
 ### 📄 Transcription Output
-![Transcript]([./recordings/Screenshot%202025-07-12%20230857.png](https://drive.google.com/file/d/1WtozyXnY3fPJ4Z_rzCzjSqm2dbSUWGJI/view?usp=sharing))
+![Transcript]([https://drive.google.com/file/d/1WtozyXnY3fPJ4Z_rzCzjSqm2dbSUWGJI/view?usp=sharing])
 
 ### 💡 Q&A Tab
-![Q&A]([./recordings/Screenshot%202025-07-12%20230912.png](https://drive.google.com/file/d/1o3AdoHQLG71tBjVxpSSL1_nANSbUrk_v/view?usp=sharing))
+![Q&A]([https://drive.google.com/file/d/1o3AdoHQLG71tBjVxpSSL1_nANSbUrk_v/view?usp=sharing])
 
 ### 🧠 Quiz Results
-![Quiz]([./recordings/Screenshot%202025-07-12%20230940.png](https://drive.google.com/file/d/1hCzsaXQv7LndmExXvcfxVUKMyckARlsD/view?usp=sharing))
+![Quiz]([https://drive.google.com/file/d/1hCzsaXQv7LndmExXvcfxVUKMyckARlsD/view?usp=sharing])
 
 ### 📝 Summary
-![Summary]([./recordings/Screenshot%202025-07-12%20231001.png](https://drive.google.com/file/d/11I2pB8g7NcqhapId-gPgJuUGkSZ6QKmB/view?usp=sharing))
+![Summary]([https://drive.google.com/file/d/11I2pB8g7NcqhapId-gPgJuUGkSZ6QKmB/view?usp=sharing])
 
 ---
 
 ## 🎥 Demo Video
 
-📽️ [Click to Watch Demo]([https://your-link-here.com](https://drive.google.com/file/d/1c84dbWXYKZqSEqa6jJpSZ7481ElS2cNQ/view?usp=sharing))
+📽️ [Click to Watch Demo]([https://drive.google.com/file/d/1c84dbWXYKZqSEqa6jJpSZ7481ElS2cNQ/view?usp=sharing])
 
-```html
-<iframe width="560" height="315" src="https://your-embed-link.com" frameborder="0" allowfullscreen></iframe>
-```
+
 
 ---
 
