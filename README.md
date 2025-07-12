@@ -137,6 +137,3 @@ google-generativeai
 
 ---
 
-## 📜 License
-
-MIT License (or your preferred one)
