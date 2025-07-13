@@ -9,10 +9,16 @@ Team Trifusion – AI-Enabled Recording Assistant for Transcription, Summarizati
 
 | Role         | Name                | Email                        | Contributions                                      |
 |--------------|---------------------|------------------------------|----------------------------------------------------|
-| Team Leader  | A. Pardha Saye      | panapart@gitam.in            | App flow, audio logic, integration & testing       |
-|              |                     |                              | and q and a gen openvino conversion                |
-| Team Member  | G. Siva Manikanta   | sgudla2@gitam.in             | recording and transcription logic                  |
+| Team Leader  | A. Pardha Saye      | panapart@gitam.in            | App flow, audio logic, integration , testing       |
+|              |                     |                              | documentatoin                                      |
+|              |                     |                              | and q and a gen openvino conversion                | 
+|              |                     |                              |                                                    |
+| Team Member  | G. Siva Manikanta   | sgudla2@gitam.in             | recording and transcription quiz gen logic         |
+|              |                     |                              | and documentation                                  |
+|              |                     |                              |                                                    |
+|              |                     |                              |                                                    |
 | Team Member  | N. Sai Siddharadha  | snarayan5@gitam.in           | Gemini integration, Q&A and quiz logic and ui      |
+|              |                     |                              |  and documentation                                 |
 
 ## Installation and usage
 1. Clone this repo:
