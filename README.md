@@ -423,15 +423,11 @@ https://drive.google.com/file/d/1c84dbWXYKZqSEqa6jJpSZ7481ElS2cNQ/view?usp=shari
 
 ## Screenshots
 
-![App Screenshot](Pardhasaye/Team-Trifusion-Project/screenshots/record.png)
-
-![App Screenshot](Pardhasaye/Team-Trifusion-Project/screenshots/transcript.png)
-
-![App Screenshot](Pardhasaye/Team-Trifusion-Project/screenshots/quiz gen.png)
-
-![App Screenshot](Pardhasaye/Team-Trifusion-Project/screenshots/qanda.png)
-
-![App Screenshot](Pardhasaye/Team-Trifusion-Project/screenshots/summary.png)
+![Recording](https://github.com/Pardhasaye/Team-Trifusion-Project/blob/0d584b9ef4939121d980cdf52619fa653899e682/screenshots/record.png)
+![Transcription](https://github.com/Pardhasaye/Team-Trifusion-Project/blob/0d584b9ef4939121d980cdf52619fa653899e682/screenshots/transcript.png)
+![Quiz gen](https://github.com/Pardhasaye/Team-Trifusion-Project/blob/0d584b9ef4939121d980cdf52619fa653899e682/screenshots/quiz%20gen.png)
+![Q and a](https://github.com/Pardhasaye/Team-Trifusion-Project/blob/0d584b9ef4939121d980cdf52619fa653899e682/screenshots/qanda.png)
+![Summarization](https://github.com/Pardhasaye/Team-Trifusion-Project/blob/0d584b9ef4939121d980cdf52619fa653899e682/screenshots/summary.png)
 
 
 ## OPENVINO optimization
