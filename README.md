@@ -423,15 +423,15 @@ https://drive.google.com/file/d/1c84dbWXYKZqSEqa6jJpSZ7481ElS2cNQ/view?usp=shari
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](Pardhasaye/Team-Trifusion-Project/screenshots/record.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](Pardhasaye/Team-Trifusion-Project/screenshots/transcript.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](Pardhasaye/Team-Trifusion-Project/screenshots/quiz gen.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](Pardhasaye/Team-Trifusion-Project/screenshots/qanda.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](Pardhasaye/Team-Trifusion-Project/screenshots/summary.png)
 
 
 ## OPENVINO optimization
